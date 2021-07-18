@@ -1,0 +1,3 @@
+This folder contains code for a Lily58L with a Nintendo Joycon-style thumbstick on each half.  
+
+(As of July 2021) this code does **not** work natively with the main QMK repository. Instead, you need to clone [tzarc's fork](https://github.com/tzarc/qmk_firmware/) which implements extensible split transactions - a framework for passing additional data between keyboard halves conveniently. [More information here.](https://github.com/qmk/qmk_firmware/pull/11930) 
