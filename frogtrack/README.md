@@ -1,3 +1,5 @@
+This folder contains code for a crkbd with a Pimoroni trackball & FrogPad layout.
+
 (If something is broken and you just want to get the original layout back, I've also provided the precompiled `*.hex` files.)
 
 First, one needs to be acquainted with QMK - [this is a good place to start](https://beta.docs.qmk.fm/tutorial/newbs_getting_started)
